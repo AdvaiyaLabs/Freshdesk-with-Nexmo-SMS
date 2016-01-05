@@ -73,7 +73,7 @@ Configure Freshdesk to send SMS using Nexmo Messaging APIs for selected critical
 
 9.  In **Callback URL** field put [**http://rest.nexmo.com/sms/xml**](http://rest.nexmo.com/sms/xml)
 
-    <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image12.png">
+    <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image12.png" width="600">
 
 10. Select **JSON** for encoding and **Advanced** for content field.
 
