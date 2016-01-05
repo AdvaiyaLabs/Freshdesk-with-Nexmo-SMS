@@ -65,7 +65,7 @@ Configure Freshdesk to send SMS using Nexmo Messaging APIs for selected critical
 
 7.  From **perform these actions,** under **Select Action,** select **Trigger Webhook.**
 
-    <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image10.png" width="600">
+    <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image10.png">
 
 8.  Select **Post** as your request type.
 
