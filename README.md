@@ -1,4 +1,5 @@
-Freshdesk with Nexmo SMS
+# Freshdesk with Nexmo SMS
+
   <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image1.jpeg" width="200">
 
 ## Introduction
