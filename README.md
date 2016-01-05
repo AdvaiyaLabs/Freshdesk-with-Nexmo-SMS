@@ -30,9 +30,9 @@ Configure Freshdesk to send SMS using Nexmo Messaging APIs for selected critical
 
 -   Make SMS dynamic by using Freshdesk placeholder.
 
-## Steps to use Nexmo configuration with Freshdesk
+## Steps to use Freshdesk with Nexmo SMS
 
-1.  Login with admin credentials.
+1.  Login on Freshdesk with admin credentials.
 
 2.  From top menu, click on **Admin** option.
 
@@ -67,7 +67,7 @@ Configure Freshdesk to send SMS using Nexmo Messaging APIs for selected critical
 
     <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image10.png">
 
-8.  Select **Post** as your request type.
+8.  Select **POST** as your request type.
 
     <img src="https://github.com/AdvaiyaLabs/Freshdesk-with-Nexmo-SMS/blob/master/docs/image11.png" width="600">
 
